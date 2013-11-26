@@ -1,0 +1,140 @@
+C:\Documents and Settings\Administrador\Escritorio\ClinicaMejorado\SistemaClinica\SistemaClinica\bin\Debug\SistemaClinica.exe
+C:\Documents and Settings\Administrador\Escritorio\ClinicaMejorado\SistemaClinica\SistemaClinica\bin\Debug\SistemaClinica.pdb
+C:\Documents and Settings\Administrador\Escritorio\ClinicaMejorado\SistemaClinica\SistemaClinica\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\ClinicaMejorado\SistemaClinica\SistemaClinica\obj\Debug\SistemaClinica.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\ClinicaMejorado\SistemaClinica\SistemaClinica\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\ClinicaMejorado\SistemaClinica\SistemaClinica\obj\Debug\SistemaClinica.exe
+C:\Documents and Settings\Administrador\Escritorio\ClinicaMejorado\SistemaClinica\SistemaClinica\obj\Debug\SistemaClinica.pdb
+C:\Documents and Settings\Administrador\Escritorio\ClinicaMejorado\SistemaClinica\SistemaClinica\obj\Debug\SistemaClinica.Form1.resources
+C:\Documents and Settings\Administrador\Escritorio\ClinicaMejorado\SistemaClinica\SistemaClinica\bin\Debug\Negocio.dll
+C:\Documents and Settings\Administrador\Escritorio\ClinicaMejorado\SistemaClinica\SistemaClinica\bin\Debug\Negocio.pdb
+C:\Documents and Settings\Administrador\Escritorio\ClinicaMejorado\SistemaClinica\SistemaClinica\obj\Debug\SistemaClinica.FrmCliente.resources
+C:\Documents and Settings\Administrador\Escritorio\ClinicaMejorado\SistemaClinica\SistemaClinica\bin\Debug\DAL.dll
+C:\Documents and Settings\Administrador\Escritorio\ClinicaMejorado\SistemaClinica\SistemaClinica\bin\Debug\Utilitarios.dll
+C:\Documents and Settings\Administrador\Escritorio\ClinicaMejorado\SistemaClinica\SistemaClinica\bin\Debug\Utilitarios.pdb
+C:\Documents and Settings\Administrador\Escritorio\ClinicaMejorado\SistemaClinica\SistemaClinica\bin\Debug\DAL.pdb
+C:\Documents and Settings\Administrador\Escritorio\ClinicaMejorado\SistemaClinica\SistemaClinica\obj\Debug\SistemaClinica.FrmTrabajo.resources
+C:\Documents and Settings\Administrador\Escritorio\ClinicaMejorado\SistemaClinica\SistemaClinica\obj\Debug\SistemaClinica.FrmDetalle.resources
+C:\Documents and Settings\Administrador\Escritorio\ClinicaMejorado\SistemaClinica\SistemaClinica\obj\Debug\SistemaClinica.FrmBusquedaCliente.resources
+C:\Documents and Settings\Administrador\Escritorio\ClinicaMejorado\SistemaClinica\SistemaClinica\obj\Debug\SistemaClinica.FrmPrincipal.resources
+C:\Documents and Settings\Administrador\Escritorio\ClinicaMejorado\SistemaClinica\SistemaClinica\bin\Debug\Reportes.dll
+C:\Documents and Settings\Administrador\Escritorio\ClinicaMejorado\SistemaClinica\SistemaClinica\bin\Debug\Reportes.pdb
+C:\Documents and Settings\Administrador\Escritorio\ClinicaMejorado\SistemaClinica\SistemaClinica\obj\Debug\SistemaClinica.FrmBuscarDetalle.resources
+C:\Users\REY\Desktop\ing de software\dentista\SistemaClinica\SistemaClinica\obj\Debug\SistemaClinica.exe
+C:\Users\REY\Desktop\ing de software\dentista\SistemaClinica\SistemaClinica\obj\Debug\SistemaClinica.pdb
+C:\Users\REY\Desktop\ing de software\dentista\SistemaClinica\SistemaClinica\bin\Debug\SistemaClinica.exe
+C:\Users\REY\Desktop\ing de software\dentista\SistemaClinica\SistemaClinica\bin\Debug\SistemaClinica.pdb
+C:\Users\REY\Desktop\ing de software\dentista\SistemaClinica\SistemaClinica\bin\Debug\DAL.dll
+C:\Users\REY\Desktop\ing de software\dentista\SistemaClinica\SistemaClinica\bin\Debug\Negocio.dll
+C:\Users\REY\Desktop\ing de software\dentista\SistemaClinica\SistemaClinica\bin\Debug\Reportes.dll
+C:\Users\REY\Desktop\ing de software\dentista\SistemaClinica\SistemaClinica\bin\Debug\Utilitarios.dll
+C:\Users\REY\Desktop\ing de software\dentista\SistemaClinica\SistemaClinica\bin\Debug\Negocio.pdb
+C:\Users\REY\Desktop\ing de software\dentista\SistemaClinica\SistemaClinica\bin\Debug\Utilitarios.pdb
+C:\Users\REY\Desktop\ing de software\dentista\SistemaClinica\SistemaClinica\bin\Debug\Reportes.pdb
+C:\Users\REY\Desktop\ing de software\dentista\SistemaClinica\SistemaClinica\bin\Debug\DAL.pdb
+C:\Users\REY\Desktop\ing de software\dentista\SistemaClinica\SistemaClinica\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\REY\Desktop\ing de software\dentista\SistemaClinica\SistemaClinica\obj\Debug\SistemaClinica.Form1.resources
+C:\Users\REY\Desktop\ing de software\dentista\SistemaClinica\SistemaClinica\obj\Debug\SistemaClinica.FrmBuscarDetalle.resources
+C:\Users\REY\Desktop\ing de software\dentista\SistemaClinica\SistemaClinica\obj\Debug\SistemaClinica.FrmBusquedaCliente.resources
+C:\Users\REY\Desktop\ing de software\dentista\SistemaClinica\SistemaClinica\obj\Debug\SistemaClinica.FrmCliente.resources
+C:\Users\REY\Desktop\ing de software\dentista\SistemaClinica\SistemaClinica\obj\Debug\SistemaClinica.FrmDetalle.resources
+C:\Users\REY\Desktop\ing de software\dentista\SistemaClinica\SistemaClinica\obj\Debug\SistemaClinica.FrmPrincipal.resources
+C:\Users\REY\Desktop\ing de software\dentista\SistemaClinica\SistemaClinica\obj\Debug\SistemaClinica.FrmTrabajo.resources
+C:\Users\REY\Desktop\ing de software\dentista\SistemaClinica\SistemaClinica\obj\Debug\SistemaClinica.Properties.Resources.resources
+C:\Users\REY\Desktop\ing de software\dentista\SistemaClinica\SistemaClinica\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+C:\Users\REY\Desktop\ing de software\dentista\SistemaClinica\SistemaClinica\bin\Debug\SistemaClinica.exe.config
+C:\Documents and Settings\ECOMSERT 2012\Escritorio\ing de software\dentista\SistemaClinica\SistemaClinica\bin\Debug\SistemaClinica.exe.config
+C:\Documents and Settings\ECOMSERT 2012\Escritorio\ing de software\dentista\SistemaClinica\SistemaClinica\obj\Debug\SistemaClinica.exe
+C:\Documents and Settings\ECOMSERT 2012\Escritorio\ing de software\dentista\SistemaClinica\SistemaClinica\obj\Debug\SistemaClinica.pdb
+C:\Documents and Settings\ECOMSERT 2012\Escritorio\ing de software\dentista\SistemaClinica\SistemaClinica\bin\Debug\SistemaClinica.exe
+C:\Documents and Settings\ECOMSERT 2012\Escritorio\ing de software\dentista\SistemaClinica\SistemaClinica\bin\Debug\SistemaClinica.pdb
+C:\Documents and Settings\ECOMSERT 2012\Escritorio\ing de software\dentista\SistemaClinica\SistemaClinica\bin\Debug\DAL.dll
+C:\Documents and Settings\ECOMSERT 2012\Escritorio\ing de software\dentista\SistemaClinica\SistemaClinica\bin\Debug\Negocio.dll
+C:\Documents and Settings\ECOMSERT 2012\Escritorio\ing de software\dentista\SistemaClinica\SistemaClinica\bin\Debug\Reportes.dll
+C:\Documents and Settings\ECOMSERT 2012\Escritorio\ing de software\dentista\SistemaClinica\SistemaClinica\bin\Debug\Utilitarios.dll
+C:\Documents and Settings\ECOMSERT 2012\Escritorio\ing de software\dentista\SistemaClinica\SistemaClinica\bin\Debug\DAL.pdb
+C:\Documents and Settings\ECOMSERT 2012\Escritorio\ing de software\dentista\SistemaClinica\SistemaClinica\bin\Debug\Negocio.pdb
+C:\Documents and Settings\ECOMSERT 2012\Escritorio\ing de software\dentista\SistemaClinica\SistemaClinica\bin\Debug\Reportes.pdb
+C:\Documents and Settings\ECOMSERT 2012\Escritorio\ing de software\dentista\SistemaClinica\SistemaClinica\bin\Debug\Utilitarios.pdb
+C:\Documents and Settings\ECOMSERT 2012\Escritorio\ing de software\dentista\SistemaClinica\SistemaClinica\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ECOMSERT 2012\Escritorio\ing de software\dentista\SistemaClinica\SistemaClinica\obj\Debug\SistemaClinica.Form1.resources
+C:\Documents and Settings\ECOMSERT 2012\Escritorio\ing de software\dentista\SistemaClinica\SistemaClinica\obj\Debug\SistemaClinica.FrmBuscarDetalle.resources
+C:\Documents and Settings\ECOMSERT 2012\Escritorio\ing de software\dentista\SistemaClinica\SistemaClinica\obj\Debug\SistemaClinica.FrmBusquedaCliente.resources
+C:\Documents and Settings\ECOMSERT 2012\Escritorio\ing de software\dentista\SistemaClinica\SistemaClinica\obj\Debug\SistemaClinica.FrmCliente.resources
+C:\Documents and Settings\ECOMSERT 2012\Escritorio\ing de software\dentista\SistemaClinica\SistemaClinica\obj\Debug\SistemaClinica.FrmDetalle.resources
+C:\Documents and Settings\ECOMSERT 2012\Escritorio\ing de software\dentista\SistemaClinica\SistemaClinica\obj\Debug\SistemaClinica.FrmPrincipal.resources
+C:\Documents and Settings\ECOMSERT 2012\Escritorio\ing de software\dentista\SistemaClinica\SistemaClinica\obj\Debug\SistemaClinica.FrmTrabajo.resources
+C:\Documents and Settings\ECOMSERT 2012\Escritorio\ing de software\dentista\SistemaClinica\SistemaClinica\obj\Debug\SistemaClinica.Properties.Resources.resources
+C:\Documents and Settings\ECOMSERT 2012\Escritorio\ing de software\dentista\SistemaClinica\SistemaClinica\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\ECOMSERT 2012\Escritorio\ing de software\dentista\SistemaClinica\SistemaClinica\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\ECOMSERT 2012\Escritorio\Copia de ing de software\dentista\SistemaClinica\SistemaClinica\bin\Debug\SistemaClinica.exe.config
+C:\Documents and Settings\ECOMSERT 2012\Escritorio\Copia de ing de software\dentista\SistemaClinica\SistemaClinica\obj\Debug\SistemaClinica.exe
+C:\Documents and Settings\ECOMSERT 2012\Escritorio\Copia de ing de software\dentista\SistemaClinica\SistemaClinica\obj\Debug\SistemaClinica.pdb
+C:\Documents and Settings\ECOMSERT 2012\Escritorio\Copia de ing de software\dentista\SistemaClinica\SistemaClinica\bin\Debug\SistemaClinica.exe
+C:\Documents and Settings\ECOMSERT 2012\Escritorio\Copia de ing de software\dentista\SistemaClinica\SistemaClinica\bin\Debug\SistemaClinica.pdb
+C:\Documents and Settings\ECOMSERT 2012\Escritorio\Copia de ing de software\dentista\SistemaClinica\SistemaClinica\bin\Debug\DAL.dll
+C:\Documents and Settings\ECOMSERT 2012\Escritorio\Copia de ing de software\dentista\SistemaClinica\SistemaClinica\bin\Debug\Negocio.dll
+C:\Documents and Settings\ECOMSERT 2012\Escritorio\Copia de ing de software\dentista\SistemaClinica\SistemaClinica\bin\Debug\Reportes.dll
+C:\Documents and Settings\ECOMSERT 2012\Escritorio\Copia de ing de software\dentista\SistemaClinica\SistemaClinica\bin\Debug\Utilitarios.dll
+C:\Documents and Settings\ECOMSERT 2012\Escritorio\Copia de ing de software\dentista\SistemaClinica\SistemaClinica\bin\Debug\DAL.pdb
+C:\Documents and Settings\ECOMSERT 2012\Escritorio\Copia de ing de software\dentista\SistemaClinica\SistemaClinica\bin\Debug\Negocio.pdb
+C:\Documents and Settings\ECOMSERT 2012\Escritorio\Copia de ing de software\dentista\SistemaClinica\SistemaClinica\bin\Debug\Reportes.pdb
+C:\Documents and Settings\ECOMSERT 2012\Escritorio\Copia de ing de software\dentista\SistemaClinica\SistemaClinica\bin\Debug\Utilitarios.pdb
+C:\Documents and Settings\ECOMSERT 2012\Escritorio\Copia de ing de software\dentista\SistemaClinica\SistemaClinica\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ECOMSERT 2012\Escritorio\Copia de ing de software\dentista\SistemaClinica\SistemaClinica\obj\Debug\SistemaClinica.Form1.resources
+C:\Documents and Settings\ECOMSERT 2012\Escritorio\Copia de ing de software\dentista\SistemaClinica\SistemaClinica\obj\Debug\SistemaClinica.FrmBuscarDetalle.resources
+C:\Documents and Settings\ECOMSERT 2012\Escritorio\Copia de ing de software\dentista\SistemaClinica\SistemaClinica\obj\Debug\SistemaClinica.FrmBusquedaCliente.resources
+C:\Documents and Settings\ECOMSERT 2012\Escritorio\Copia de ing de software\dentista\SistemaClinica\SistemaClinica\obj\Debug\SistemaClinica.FrmCliente.resources
+C:\Documents and Settings\ECOMSERT 2012\Escritorio\Copia de ing de software\dentista\SistemaClinica\SistemaClinica\obj\Debug\SistemaClinica.FrmDetalle.resources
+C:\Documents and Settings\ECOMSERT 2012\Escritorio\Copia de ing de software\dentista\SistemaClinica\SistemaClinica\obj\Debug\SistemaClinica.FrmPrincipal.resources
+C:\Documents and Settings\ECOMSERT 2012\Escritorio\Copia de ing de software\dentista\SistemaClinica\SistemaClinica\obj\Debug\SistemaClinica.FrmTrabajo.resources
+C:\Documents and Settings\ECOMSERT 2012\Escritorio\Copia de ing de software\dentista\SistemaClinica\SistemaClinica\obj\Debug\SistemaClinica.Properties.Resources.resources
+C:\Documents and Settings\ECOMSERT 2012\Escritorio\Copia de ing de software\dentista\SistemaClinica\SistemaClinica\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\ECOMSERT 2012\Escritorio\Copia de ing de software\dentista\SistemaClinica\SistemaClinica\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\formateada\Copia de ing de software\dentista\SistemaClinica\SistemaClinica\bin\Debug\SistemaClinica.exe.config
+D:\formateada\Copia de ing de software\dentista\SistemaClinica\SistemaClinica\obj\Debug\SistemaClinica.exe
+D:\formateada\Copia de ing de software\dentista\SistemaClinica\SistemaClinica\obj\Debug\SistemaClinica.pdb
+D:\formateada\Copia de ing de software\dentista\SistemaClinica\SistemaClinica\bin\Debug\SistemaClinica.exe
+D:\formateada\Copia de ing de software\dentista\SistemaClinica\SistemaClinica\bin\Debug\SistemaClinica.pdb
+D:\formateada\Copia de ing de software\dentista\SistemaClinica\SistemaClinica\bin\Debug\DAL.dll
+D:\formateada\Copia de ing de software\dentista\SistemaClinica\SistemaClinica\bin\Debug\Negocio.dll
+D:\formateada\Copia de ing de software\dentista\SistemaClinica\SistemaClinica\bin\Debug\Reportes.dll
+D:\formateada\Copia de ing de software\dentista\SistemaClinica\SistemaClinica\bin\Debug\Utilitarios.dll
+D:\formateada\Copia de ing de software\dentista\SistemaClinica\SistemaClinica\bin\Debug\DAL.pdb
+D:\formateada\Copia de ing de software\dentista\SistemaClinica\SistemaClinica\bin\Debug\Negocio.pdb
+D:\formateada\Copia de ing de software\dentista\SistemaClinica\SistemaClinica\bin\Debug\Reportes.pdb
+D:\formateada\Copia de ing de software\dentista\SistemaClinica\SistemaClinica\bin\Debug\Utilitarios.pdb
+D:\formateada\Copia de ing de software\dentista\SistemaClinica\SistemaClinica\obj\Debug\SistemaClinica.Form1.resources
+D:\formateada\Copia de ing de software\dentista\SistemaClinica\SistemaClinica\obj\Debug\SistemaClinica.FrmBuscarDetalle.resources
+D:\formateada\Copia de ing de software\dentista\SistemaClinica\SistemaClinica\obj\Debug\SistemaClinica.FrmBusquedaCliente.resources
+D:\formateada\Copia de ing de software\dentista\SistemaClinica\SistemaClinica\obj\Debug\SistemaClinica.FrmCliente.resources
+D:\formateada\Copia de ing de software\dentista\SistemaClinica\SistemaClinica\obj\Debug\SistemaClinica.FrmDetalle.resources
+D:\formateada\Copia de ing de software\dentista\SistemaClinica\SistemaClinica\obj\Debug\SistemaClinica.FrmPrincipal.resources
+D:\formateada\Copia de ing de software\dentista\SistemaClinica\SistemaClinica\obj\Debug\SistemaClinica.FrmTrabajo.resources
+D:\formateada\Copia de ing de software\dentista\SistemaClinica\SistemaClinica\obj\Debug\SistemaClinica.Properties.Resources.resources
+D:\formateada\Copia de ing de software\dentista\SistemaClinica\SistemaClinica\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+D:\formateada\Copia de ing de software\dentista\SistemaClinica\SistemaClinica\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+C:\Users\GROVER\Desktop\dentista\SistemaClinica\SistemaClinica\bin\Debug\SistemaClinica.exe.config
+C:\Users\GROVER\Desktop\dentista\SistemaClinica\SistemaClinica\obj\Debug\SistemaClinica.exe
+C:\Users\GROVER\Desktop\dentista\SistemaClinica\SistemaClinica\obj\Debug\SistemaClinica.pdb
+C:\Users\GROVER\Desktop\dentista\SistemaClinica\SistemaClinica\bin\Debug\SistemaClinica.exe
+C:\Users\GROVER\Desktop\dentista\SistemaClinica\SistemaClinica\bin\Debug\SistemaClinica.pdb
+C:\Users\GROVER\Desktop\dentista\SistemaClinica\SistemaClinica\bin\Debug\DAL.dll
+C:\Users\GROVER\Desktop\dentista\SistemaClinica\SistemaClinica\bin\Debug\Negocio.dll
+C:\Users\GROVER\Desktop\dentista\SistemaClinica\SistemaClinica\bin\Debug\Reportes.dll
+C:\Users\GROVER\Desktop\dentista\SistemaClinica\SistemaClinica\bin\Debug\Utilitarios.dll
+C:\Users\GROVER\Desktop\dentista\SistemaClinica\SistemaClinica\bin\Debug\DAL.pdb
+C:\Users\GROVER\Desktop\dentista\SistemaClinica\SistemaClinica\bin\Debug\Negocio.pdb
+C:\Users\GROVER\Desktop\dentista\SistemaClinica\SistemaClinica\bin\Debug\Reportes.pdb
+C:\Users\GROVER\Desktop\dentista\SistemaClinica\SistemaClinica\bin\Debug\Utilitarios.pdb
+C:\Users\GROVER\Desktop\dentista\SistemaClinica\SistemaClinica\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\GROVER\Desktop\dentista\SistemaClinica\SistemaClinica\obj\Debug\SistemaClinica.Form1.resources
+C:\Users\GROVER\Desktop\dentista\SistemaClinica\SistemaClinica\obj\Debug\SistemaClinica.FrmBuscarDetalle.resources
+C:\Users\GROVER\Desktop\dentista\SistemaClinica\SistemaClinica\obj\Debug\SistemaClinica.FrmBusquedaCliente.resources
+C:\Users\GROVER\Desktop\dentista\SistemaClinica\SistemaClinica\obj\Debug\SistemaClinica.FrmCliente.resources
+C:\Users\GROVER\Desktop\dentista\SistemaClinica\SistemaClinica\obj\Debug\SistemaClinica.FrmDetalle.resources
+C:\Users\GROVER\Desktop\dentista\SistemaClinica\SistemaClinica\obj\Debug\SistemaClinica.FrmPrincipal.resources
+C:\Users\GROVER\Desktop\dentista\SistemaClinica\SistemaClinica\obj\Debug\SistemaClinica.FrmTrabajo.resources
+C:\Users\GROVER\Desktop\dentista\SistemaClinica\SistemaClinica\obj\Debug\SistemaClinica.Properties.Resources.resources
+C:\Users\GROVER\Desktop\dentista\SistemaClinica\SistemaClinica\obj\Debug\ResGen.read.1.tlog
+C:\Users\GROVER\Desktop\dentista\SistemaClinica\SistemaClinica\obj\Debug\ResGen.write.1.tlog

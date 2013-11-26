@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="SistemaClinica">
+</Property><Property Name="Archivo de la solución" Value="C:\Documents and Settings\Administrador\Escritorio\ING. DE SOFTWARE\Proyecto\dentista\SistemaClinica\SistemaClinica.sln">
+</Property><Property Name="Date" Value="lunes, 25 de noviembre de 2013">
+</Property><Property Name="Time" Value="13:49">
+</Property><Property Name="Número de registro" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="Presentacion" Source="SistemaClinica\Presentacion.csproj" Description="Proyecto convertido correctamente">
+</Event><Event ErrorLevel="3" Project="Presentacion" Source="SistemaClinica\Presentacion.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Negocio" Source="Negocio\Negocio.csproj" Description="Proyecto convertido correctamente">
+</Event><Event ErrorLevel="3" Project="Negocio" Source="Negocio\Negocio.csproj" Description="Converted">
+</Event><Event ErrorLevel="4" Project="Reportes" Source="http://go.microsoft.com/fwlink/?LinkId=159919" Description="Advertencia: este proyecto requiere Crystal Reports, que ya no se incluye con Visual Studio. Haga clic aquí para obtener más información.">
+</Event><Event ErrorLevel="0" Project="Reportes" Source="Reportes\Reportes.csproj" Description="Proyecto convertido correctamente">
+</Event><Event ErrorLevel="3" Project="Reportes" Source="Reportes\Reportes.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Utilitarios" Source="Utilitarios\Utilitarios.csproj" Description="Proyecto convertido correctamente">
+</Event><Event ErrorLevel="3" Project="Utilitarios" Source="Utilitarios\Utilitarios.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DAL" Source="DAL\DAL.csproj" Description="Proyecto convertido correctamente">
+</Event><Event ErrorLevel="3" Project="DAL" Source="DAL\DAL.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="SistemaClinica.sln" Description="La solución se convirtió correctamente">
+</Event><Event ErrorLevel="3" Project="" Source="SistemaClinica.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Presentacion" Source="SistemaClinica\Presentacion.csproj" Description="Examen completo: no es necesario actualizar los archivos de proyecto.">
+</Event><Event ErrorLevel="0" Project="Negocio" Source="Negocio\Negocio.csproj" Description="Examen completo: no es necesario actualizar los archivos de proyecto.">
+</Event><Event ErrorLevel="0" Project="Reportes" Source="Reportes\Reportes.csproj" Description="Examen completo: no es necesario actualizar los archivos de proyecto.">
+</Event><Event ErrorLevel="0" Project="Utilitarios" Source="Utilitarios\Utilitarios.csproj" Description="Examen completo: no es necesario actualizar los archivos de proyecto.">
+</Event><Event ErrorLevel="0" Project="DAL" Source="DAL\DAL.csproj" Description="Examen completo: no es necesario actualizar los archivos de proyecto.">
+</Event></UpgradeLog>

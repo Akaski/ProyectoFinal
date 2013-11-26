@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Database Name="dbclinica" Class="DataLinqDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=.;Initial Catalog=dbclinica;Integrated Security=True" SettingsObjectName="Negocio.Properties.Settings" SettingsPropertyName="dbclinicaConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Cliente" Member="Cliente">
+    <Type Name="Cliente">
+      <Column Name="idcliente" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="nombre" Type="System.String" DbType="VarChar(30) NOT NULL" CanBeNull="false" />
+      <Column Name="ap_paterno" Type="System.String" DbType="VarChar(30) NOT NULL" CanBeNull="false" />
+      <Column Name="ap_materno" Type="System.String" DbType="VarChar(30) NOT NULL" CanBeNull="false" />
+      <Column Name="ci" Type="System.String" DbType="VarChar(30) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="direccion" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+      <Column Name="telefono" Type="System.String" DbType="VarChar(200)" CanBeNull="true" />
+      <Association Name="Cliente_DetalleTrabajo" Member="DetalleTrabajo" ThisKey="ci" OtherKey="idcliente" Type="DetalleTrabajo" />
+    </Type>
+  </Table>
+  <Table Name="dbo.DetalleTrabajo" Member="DetalleTrabajo">
+    <Type Name="DetalleTrabajo">
+      <Column Name="idtrabajo" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="descripcion" Type="System.String" DbType="VarChar(30) NOT NULL" CanBeNull="false" />
+      <Column Name="costo" Type="System.String" DbType="VarChar(30) NOT NULL" CanBeNull="false" />
+      <Column Name="idcliente" Type="System.String" DbType="VarChar(30) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="fecha" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="hora" Type="System.String" DbType="VarChar(30) NOT NULL" CanBeNull="false" />
+      <Column Name="nropago" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="monto" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="Cliente_DetalleTrabajo" Member="Cliente" ThisKey="idcliente" OtherKey="ci" Type="Cliente" IsForeignKey="true" />
+      <Association Name="trabajo_DetalleTrabajo" Member="trabajo" ThisKey="idtrabajo" OtherKey="idtrabajo" Type="trabajo" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.trabajo" Member="trabajo">
+    <Type Name="trabajo">
+      <Column Name="idtrabajo" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="descripcion" Type="System.String" DbType="VarChar(30) NOT NULL" CanBeNull="false" />
+      <Column Name="precio" Type="System.String" DbType="VarChar(30) NOT NULL" CanBeNull="false" />
+      <Association Name="trabajo_DetalleTrabajo" Member="DetalleTrabajo" ThisKey="idtrabajo" OtherKey="idtrabajo" Type="DetalleTrabajo" />
+    </Type>
+  </Table>
+</Database>

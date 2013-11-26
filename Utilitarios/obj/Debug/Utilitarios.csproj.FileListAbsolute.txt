@@ -1,0 +1,24 @@
+C:\Documents and Settings\Administrador\Escritorio\ClinicaMejorado\SistemaClinica\Utilitarios\bin\Debug\Utilitarios.dll
+C:\Documents and Settings\Administrador\Escritorio\ClinicaMejorado\SistemaClinica\Utilitarios\bin\Debug\Utilitarios.pdb
+C:\Documents and Settings\Administrador\Escritorio\ClinicaMejorado\SistemaClinica\Utilitarios\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\ClinicaMejorado\SistemaClinica\Utilitarios\obj\Debug\Utilitarios.dll
+C:\Documents and Settings\Administrador\Escritorio\ClinicaMejorado\SistemaClinica\Utilitarios\obj\Debug\Utilitarios.pdb
+C:\Users\REY\Desktop\ing de software\dentista\SistemaClinica\Utilitarios\bin\Debug\Utilitarios.dll
+C:\Users\REY\Desktop\ing de software\dentista\SistemaClinica\Utilitarios\bin\Debug\Utilitarios.pdb
+C:\Users\REY\Desktop\ing de software\dentista\SistemaClinica\Utilitarios\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\REY\Desktop\ing de software\dentista\SistemaClinica\Utilitarios\obj\Debug\Utilitarios.dll
+C:\Users\REY\Desktop\ing de software\dentista\SistemaClinica\Utilitarios\obj\Debug\Utilitarios.pdb
+C:\Documents and Settings\ECOMSERT 2012\Escritorio\ing de software\dentista\SistemaClinica\Utilitarios\bin\Debug\Utilitarios.dll
+C:\Documents and Settings\ECOMSERT 2012\Escritorio\ing de software\dentista\SistemaClinica\Utilitarios\bin\Debug\Utilitarios.pdb
+C:\Documents and Settings\ECOMSERT 2012\Escritorio\ing de software\dentista\SistemaClinica\Utilitarios\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ECOMSERT 2012\Escritorio\ing de software\dentista\SistemaClinica\Utilitarios\obj\Debug\Utilitarios.dll
+C:\Documents and Settings\ECOMSERT 2012\Escritorio\ing de software\dentista\SistemaClinica\Utilitarios\obj\Debug\Utilitarios.pdb
+D:\formateada\Copia de ing de software\dentista\SistemaClinica\Utilitarios\bin\Debug\Utilitarios.dll
+D:\formateada\Copia de ing de software\dentista\SistemaClinica\Utilitarios\bin\Debug\Utilitarios.pdb
+D:\formateada\Copia de ing de software\dentista\SistemaClinica\Utilitarios\obj\Debug\Utilitarios.dll
+D:\formateada\Copia de ing de software\dentista\SistemaClinica\Utilitarios\obj\Debug\Utilitarios.pdb
+C:\Users\GROVER\Desktop\dentista\SistemaClinica\Utilitarios\bin\Debug\Utilitarios.dll
+C:\Users\GROVER\Desktop\dentista\SistemaClinica\Utilitarios\bin\Debug\Utilitarios.pdb
+C:\Users\GROVER\Desktop\dentista\SistemaClinica\Utilitarios\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\GROVER\Desktop\dentista\SistemaClinica\Utilitarios\obj\Debug\Utilitarios.dll
+C:\Users\GROVER\Desktop\dentista\SistemaClinica\Utilitarios\obj\Debug\Utilitarios.pdb

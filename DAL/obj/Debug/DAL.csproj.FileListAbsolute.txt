@@ -1,0 +1,74 @@
+C:\Documents and Settings\Server\Escritorio\transporte\DAL\bin\Debug\DAL.dll
+C:\Documents and Settings\Server\Escritorio\transporte\DAL\bin\Debug\DAL.pdb
+C:\Documents and Settings\Server\Escritorio\transporte\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Server\Escritorio\transporte\DAL\obj\Debug\DAL.dll
+C:\Documents and Settings\Server\Escritorio\transporte\DAL\obj\Debug\DAL.pdb
+J:\sistema Tranporte1.1\DAL\bin\Debug\DAL.dll
+J:\sistema Tranporte1.1\DAL\bin\Debug\DAL.pdb
+J:\sistema Tranporte1.1\DAL\obj\Debug\ResolveAssemblyReference.cache
+J:\sistema Tranporte1.1\DAL\obj\Debug\DAL.dll
+J:\sistema Tranporte1.1\DAL\obj\Debug\DAL.pdb
+C:\Documents and Settings\Server\Escritorio\sistema Tranporte1.2\DAL\bin\Debug\DAL.dll
+C:\Documents and Settings\Server\Escritorio\sistema Tranporte1.2\DAL\bin\Debug\DAL.pdb
+C:\Documents and Settings\Server\Escritorio\sistema Tranporte1.2\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Server\Escritorio\sistema Tranporte1.2\DAL\obj\Debug\DAL.dll
+C:\Documents and Settings\Server\Escritorio\sistema Tranporte1.2\DAL\obj\Debug\DAL.pdb
+C:\Documents and Settings\Server\Escritorio\sistema Tranporte1.3\DAL\bin\Debug\DAL.dll
+C:\Documents and Settings\Server\Escritorio\sistema Tranporte1.3\DAL\bin\Debug\DAL.pdb
+C:\Documents and Settings\Server\Escritorio\sistema Tranporte1.3\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Server\Escritorio\sistema Tranporte1.3\DAL\obj\Debug\DAL.dll
+C:\Documents and Settings\Server\Escritorio\sistema Tranporte1.3\DAL\obj\Debug\DAL.pdb
+C:\Documents and Settings\PC 10\Escritorio\sistema Tranporte1.4\DAL\bin\Debug\DAL.dll
+C:\Documents and Settings\PC 10\Escritorio\sistema Tranporte1.4\DAL\bin\Debug\DAL.pdb
+C:\Documents and Settings\PC 10\Escritorio\sistema Tranporte1.4\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\PC 10\Escritorio\sistema Tranporte1.4\DAL\obj\Debug\DAL.dll
+C:\Documents and Settings\PC 10\Escritorio\sistema Tranporte1.4\DAL\obj\Debug\DAL.pdb
+C:\Users\HERBERZIANO\Desktop\sistema Tranporte1.5\DAL\bin\Debug\DAL.dll
+C:\Users\HERBERZIANO\Desktop\sistema Tranporte1.5\DAL\bin\Debug\DAL.pdb
+C:\Users\HERBERZIANO\Desktop\sistema Tranporte1.5\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\HERBERZIANO\Desktop\sistema Tranporte1.5\DAL\obj\Debug\DAL.dll
+C:\Users\HERBERZIANO\Desktop\sistema Tranporte1.5\DAL\obj\Debug\DAL.pdb
+C:\Documents and Settings\VisualStudio\Escritorio\sistema Tranporte1.6\DAL\bin\Debug\DAL.dll
+C:\Documents and Settings\VisualStudio\Escritorio\sistema Tranporte1.6\DAL\bin\Debug\DAL.pdb
+C:\Documents and Settings\VisualStudio\Escritorio\sistema Tranporte1.6\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\VisualStudio\Escritorio\sistema Tranporte1.6\DAL\obj\Debug\DAL.dll
+C:\Documents and Settings\VisualStudio\Escritorio\sistema Tranporte1.6\DAL\obj\Debug\DAL.pdb
+C:\Documents and Settings\ricardo\Escritorio\sistema Tranporte1.6\DAL\bin\Debug\DAL.dll
+C:\Documents and Settings\ricardo\Escritorio\sistema Tranporte1.6\DAL\bin\Debug\DAL.pdb
+C:\Documents and Settings\ricardo\Escritorio\sistema Tranporte1.6\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ricardo\Escritorio\sistema Tranporte1.6\DAL\obj\Debug\DAL.dll
+C:\Documents and Settings\ricardo\Escritorio\sistema Tranporte1.6\DAL\obj\Debug\DAL.pdb
+G:\proyect\sistema Tranporte1.6\DAL\bin\Debug\DAL.dll
+G:\proyect\sistema Tranporte1.6\DAL\bin\Debug\DAL.pdb
+G:\proyect\sistema Tranporte1.6\DAL\obj\Debug\ResolveAssemblyReference.cache
+G:\proyect\sistema Tranporte1.6\DAL\obj\Debug\DAL.dll
+G:\proyect\sistema Tranporte1.6\DAL\obj\Debug\DAL.pdb
+C:\Documents and Settings\Administrador\Escritorio\Sistema Clinica\DAL\bin\Debug\DAL.dll
+C:\Documents and Settings\Administrador\Escritorio\Sistema Clinica\DAL\bin\Debug\DAL.pdb
+C:\Documents and Settings\Administrador\Escritorio\Sistema Clinica\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\Sistema Clinica\DAL\obj\Debug\DAL.dll
+C:\Documents and Settings\Administrador\Escritorio\Sistema Clinica\DAL\obj\Debug\DAL.pdb
+C:\Documents and Settings\Administrador\Escritorio\ClinicaMejorado\SistemaClinica\DAL\bin\Debug\DAL.dll
+C:\Documents and Settings\Administrador\Escritorio\ClinicaMejorado\SistemaClinica\DAL\bin\Debug\DAL.pdb
+C:\Documents and Settings\Administrador\Escritorio\ClinicaMejorado\SistemaClinica\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\ClinicaMejorado\SistemaClinica\DAL\obj\Debug\DAL.dll
+C:\Documents and Settings\Administrador\Escritorio\ClinicaMejorado\SistemaClinica\DAL\obj\Debug\DAL.pdb
+C:\Users\REY\Desktop\ing de software\dentista\SistemaClinica\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\REY\Desktop\ing de software\dentista\SistemaClinica\DAL\obj\Debug\DAL.dll
+C:\Users\REY\Desktop\ing de software\dentista\SistemaClinica\DAL\obj\Debug\DAL.pdb
+C:\Users\REY\Desktop\ing de software\dentista\SistemaClinica\DAL\bin\Debug\DAL.dll
+C:\Users\REY\Desktop\ing de software\dentista\SistemaClinica\DAL\bin\Debug\DAL.pdb
+C:\Documents and Settings\ECOMSERT 2012\Escritorio\ing de software\dentista\SistemaClinica\DAL\bin\Debug\DAL.dll
+C:\Documents and Settings\ECOMSERT 2012\Escritorio\ing de software\dentista\SistemaClinica\DAL\bin\Debug\DAL.pdb
+C:\Documents and Settings\ECOMSERT 2012\Escritorio\ing de software\dentista\SistemaClinica\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ECOMSERT 2012\Escritorio\ing de software\dentista\SistemaClinica\DAL\obj\Debug\DAL.dll
+C:\Documents and Settings\ECOMSERT 2012\Escritorio\ing de software\dentista\SistemaClinica\DAL\obj\Debug\DAL.pdb
+D:\formateada\Copia de ing de software\dentista\SistemaClinica\DAL\bin\Debug\DAL.dll
+D:\formateada\Copia de ing de software\dentista\SistemaClinica\DAL\bin\Debug\DAL.pdb
+D:\formateada\Copia de ing de software\dentista\SistemaClinica\DAL\obj\Debug\DAL.dll
+D:\formateada\Copia de ing de software\dentista\SistemaClinica\DAL\obj\Debug\DAL.pdb
+C:\Users\GROVER\Desktop\dentista\SistemaClinica\DAL\bin\Debug\DAL.dll
+C:\Users\GROVER\Desktop\dentista\SistemaClinica\DAL\bin\Debug\DAL.pdb
+C:\Users\GROVER\Desktop\dentista\SistemaClinica\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\GROVER\Desktop\dentista\SistemaClinica\DAL\obj\Debug\DAL.dll
+C:\Users\GROVER\Desktop\dentista\SistemaClinica\DAL\obj\Debug\DAL.pdb

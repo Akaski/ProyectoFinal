@@ -1,0 +1,75 @@
+C:\Documents and Settings\Administrador\Escritorio\ClinicaMejorado\SistemaClinica\Reportes\bin\Debug\Reportes.dll
+C:\Documents and Settings\Administrador\Escritorio\ClinicaMejorado\SistemaClinica\Reportes\bin\Debug\Reportes.pdb
+C:\Documents and Settings\Administrador\Escritorio\ClinicaMejorado\SistemaClinica\Reportes\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\ClinicaMejorado\SistemaClinica\Reportes\obj\Debug\Reportes.dll
+C:\Documents and Settings\Administrador\Escritorio\ClinicaMejorado\SistemaClinica\Reportes\obj\Debug\Reportes.pdb
+C:\Documents and Settings\Administrador\Escritorio\ClinicaMejorado\SistemaClinica\Reportes\bin\Debug\Reportes.dll.config
+C:\Documents and Settings\Administrador\Escritorio\ClinicaMejorado\SistemaClinica\Reportes\bin\Debug\Negocio.dll
+C:\Documents and Settings\Administrador\Escritorio\ClinicaMejorado\SistemaClinica\Reportes\bin\Debug\Utilitarios.dll
+C:\Documents and Settings\Administrador\Escritorio\ClinicaMejorado\SistemaClinica\Reportes\bin\Debug\DAL.dll
+C:\Documents and Settings\Administrador\Escritorio\ClinicaMejorado\SistemaClinica\Reportes\bin\Debug\Negocio.pdb
+C:\Documents and Settings\Administrador\Escritorio\ClinicaMejorado\SistemaClinica\Reportes\bin\Debug\Utilitarios.pdb
+C:\Documents and Settings\Administrador\Escritorio\ClinicaMejorado\SistemaClinica\Reportes\bin\Debug\DAL.pdb
+C:\Documents and Settings\Administrador\Escritorio\ClinicaMejorado\SistemaClinica\Reportes\obj\Debug\Reportes.Frmreportes.resources
+C:\Documents and Settings\Administrador\Escritorio\ClinicaMejorado\SistemaClinica\Reportes\obj\Debug\Reportes.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\ClinicaMejorado\SistemaClinica\Reportes\obj\Debug\Reportes.FrmRptCliente.resources
+C:\Users\REY\Desktop\ing de software\dentista\SistemaClinica\Reportes\bin\Debug\Reportes.dll.config
+C:\Users\REY\Desktop\ing de software\dentista\SistemaClinica\Reportes\bin\Debug\Reportes.dll
+C:\Users\REY\Desktop\ing de software\dentista\SistemaClinica\Reportes\bin\Debug\Reportes.pdb
+C:\Users\REY\Desktop\ing de software\dentista\SistemaClinica\Reportes\bin\Debug\DAL.dll
+C:\Users\REY\Desktop\ing de software\dentista\SistemaClinica\Reportes\bin\Debug\Negocio.dll
+C:\Users\REY\Desktop\ing de software\dentista\SistemaClinica\Reportes\bin\Debug\Utilitarios.dll
+C:\Users\REY\Desktop\ing de software\dentista\SistemaClinica\Reportes\bin\Debug\Negocio.pdb
+C:\Users\REY\Desktop\ing de software\dentista\SistemaClinica\Reportes\bin\Debug\Utilitarios.pdb
+C:\Users\REY\Desktop\ing de software\dentista\SistemaClinica\Reportes\bin\Debug\DAL.pdb
+C:\Users\REY\Desktop\ing de software\dentista\SistemaClinica\Reportes\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\REY\Desktop\ing de software\dentista\SistemaClinica\Reportes\obj\Debug\Reportes.Frmreportes.resources
+C:\Users\REY\Desktop\ing de software\dentista\SistemaClinica\Reportes\obj\Debug\Reportes.FrmRptCliente.resources
+C:\Users\REY\Desktop\ing de software\dentista\SistemaClinica\Reportes\obj\Debug\Reportes.csproj.GenerateResource.Cache
+C:\Users\REY\Desktop\ing de software\dentista\SistemaClinica\Reportes\obj\Debug\Reportes.dll
+C:\Users\REY\Desktop\ing de software\dentista\SistemaClinica\Reportes\obj\Debug\Reportes.pdb
+C:\Documents and Settings\ECOMSERT 2012\Escritorio\ing de software\dentista\SistemaClinica\Reportes\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ECOMSERT 2012\Escritorio\ing de software\dentista\SistemaClinica\Reportes\obj\Debug\Reportes.Frmreportes.resources
+C:\Documents and Settings\ECOMSERT 2012\Escritorio\ing de software\dentista\SistemaClinica\Reportes\obj\Debug\Reportes.FrmRptCliente.resources
+C:\Documents and Settings\ECOMSERT 2012\Escritorio\ing de software\dentista\SistemaClinica\Reportes\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\ECOMSERT 2012\Escritorio\ing de software\dentista\SistemaClinica\Reportes\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\ECOMSERT 2012\Escritorio\ing de software\dentista\SistemaClinica\Reportes\obj\Debug\Reportes.dll
+C:\Documents and Settings\ECOMSERT 2012\Escritorio\ing de software\dentista\SistemaClinica\Reportes\obj\Debug\Reportes.pdb
+C:\Documents and Settings\ECOMSERT 2012\Escritorio\Copia de ing de software\dentista\SistemaClinica\Reportes\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ECOMSERT 2012\Escritorio\Copia de ing de software\dentista\SistemaClinica\Reportes\obj\Debug\Reportes.Frmreportes.resources
+C:\Documents and Settings\ECOMSERT 2012\Escritorio\Copia de ing de software\dentista\SistemaClinica\Reportes\obj\Debug\Reportes.FrmRptCliente.resources
+C:\Documents and Settings\ECOMSERT 2012\Escritorio\Copia de ing de software\dentista\SistemaClinica\Reportes\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\ECOMSERT 2012\Escritorio\Copia de ing de software\dentista\SistemaClinica\Reportes\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\ECOMSERT 2012\Escritorio\Copia de ing de software\dentista\SistemaClinica\Reportes\obj\Debug\Reportes.dll
+C:\Documents and Settings\ECOMSERT 2012\Escritorio\Copia de ing de software\dentista\SistemaClinica\Reportes\obj\Debug\Reportes.pdb
+D:\formateada\Copia de ing de software\dentista\SistemaClinica\Reportes\obj\Debug\Reportes.Frmreportes.resources
+D:\formateada\Copia de ing de software\dentista\SistemaClinica\Reportes\obj\Debug\Reportes.FrmRptCliente.resources
+D:\formateada\Copia de ing de software\dentista\SistemaClinica\Reportes\obj\Debug\Reportes.dll
+D:\formateada\Copia de ing de software\dentista\SistemaClinica\Reportes\obj\Debug\Reportes.pdb
+D:\formateada\Copia de ing de software\dentista\SistemaClinica\Reportes\obj\Debug\Reportes.csprojResolveAssemblyReference.cache
+D:\formateada\Copia de ing de software\dentista\SistemaClinica\Reportes\obj\Debug\Reportes.csproj.GenerateResource.Cache
+D:\formateada\Copia de ing de software\dentista\SistemaClinica\Reportes\bin\Debug\Reportes.dll.config
+D:\formateada\Copia de ing de software\dentista\SistemaClinica\Reportes\bin\Debug\Reportes.dll
+D:\formateada\Copia de ing de software\dentista\SistemaClinica\Reportes\bin\Debug\Reportes.pdb
+D:\formateada\Copia de ing de software\dentista\SistemaClinica\Reportes\bin\Debug\DAL.dll
+D:\formateada\Copia de ing de software\dentista\SistemaClinica\Reportes\bin\Debug\Negocio.dll
+D:\formateada\Copia de ing de software\dentista\SistemaClinica\Reportes\bin\Debug\Utilitarios.dll
+D:\formateada\Copia de ing de software\dentista\SistemaClinica\Reportes\bin\Debug\DAL.pdb
+D:\formateada\Copia de ing de software\dentista\SistemaClinica\Reportes\bin\Debug\Negocio.pdb
+D:\formateada\Copia de ing de software\dentista\SistemaClinica\Reportes\bin\Debug\Utilitarios.pdb
+C:\Users\GROVER\Desktop\dentista\SistemaClinica\Reportes\bin\Debug\Reportes.dll.config
+C:\Users\GROVER\Desktop\dentista\SistemaClinica\Reportes\bin\Debug\Reportes.dll
+C:\Users\GROVER\Desktop\dentista\SistemaClinica\Reportes\bin\Debug\Reportes.pdb
+C:\Users\GROVER\Desktop\dentista\SistemaClinica\Reportes\bin\Debug\DAL.dll
+C:\Users\GROVER\Desktop\dentista\SistemaClinica\Reportes\bin\Debug\Negocio.dll
+C:\Users\GROVER\Desktop\dentista\SistemaClinica\Reportes\bin\Debug\Utilitarios.dll
+C:\Users\GROVER\Desktop\dentista\SistemaClinica\Reportes\bin\Debug\DAL.pdb
+C:\Users\GROVER\Desktop\dentista\SistemaClinica\Reportes\bin\Debug\Negocio.pdb
+C:\Users\GROVER\Desktop\dentista\SistemaClinica\Reportes\bin\Debug\Utilitarios.pdb
+C:\Users\GROVER\Desktop\dentista\SistemaClinica\Reportes\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\GROVER\Desktop\dentista\SistemaClinica\Reportes\obj\Debug\Reportes.Frmreportes.resources
+C:\Users\GROVER\Desktop\dentista\SistemaClinica\Reportes\obj\Debug\Reportes.FrmRptCliente.resources
+C:\Users\GROVER\Desktop\dentista\SistemaClinica\Reportes\obj\Debug\ResGen.read.1.tlog
+C:\Users\GROVER\Desktop\dentista\SistemaClinica\Reportes\obj\Debug\ResGen.write.1.tlog
+C:\Users\GROVER\Desktop\dentista\SistemaClinica\Reportes\obj\Debug\Reportes.dll
+C:\Users\GROVER\Desktop\dentista\SistemaClinica\Reportes\obj\Debug\Reportes.pdb

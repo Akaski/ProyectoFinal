@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="DataLinq">
+  <DataContextMoniker Name="/DataLinqDataContext" />
+  <nestedChildShapes>
+    <classShape Id="a33db87f-7314-4350-86b4-357b8a47fda9" absoluteBounds="0.875, 1.5, 2, 1.9178898111979166">
+      <DataClassMoniker Name="/DataLinqDataContext/Cliente" />
+      <nestedChildShapes>
+        <elementListCompartment Id="3fb74633-3d4c-477d-8e7c-28d67a6b7422" absoluteBounds="0.89, 1.96, 1.9700000000000002, 1.3578898111979165" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="c92fe9eb-9b16-4160-986b-8a25da5e61e6" absoluteBounds="4.375, 1.375, 2, 2.0822371419270831">
+      <DataClassMoniker Name="/DataLinqDataContext/DetalleTrabajo" />
+      <nestedChildShapes>
+        <elementListCompartment Id="6abc3b9a-f63c-49a6-84f4-911fc5669d6e" absoluteBounds="4.39, 1.835, 1.9700000000000002, 1.5222371419270833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.875 : 2.45894490559896); (4.375 : 2.45894490559896)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataLinqDataContext/Cliente/Cliente_DetalleTrabajo" />
+      <nodes>
+        <classShapeMoniker Id="a33db87f-7314-4350-86b4-357b8a47fda9" />
+        <classShapeMoniker Id="c92fe9eb-9b16-4160-986b-8a25da5e61e6" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="44d4a0f9-d2aa-4338-9c07-e2c9e5f57c70" absoluteBounds="3.125, 4.75, 2, 1.26050048828125">
+      <DataClassMoniker Name="/DataLinqDataContext/trabajo" />
+      <nestedChildShapes>
+        <elementListCompartment Id="31e3ecdf-693b-4fd2-9bdb-12d558ef1df9" absoluteBounds="3.14, 5.21, 1.9700000000000002, 0.70050048828125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(4.75 : 4.75); (4.75 : 3.45723714192708)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataLinqDataContext/trabajo/trabajo_DetalleTrabajo" />
+      <nodes>
+        <classShapeMoniker Id="44d4a0f9-d2aa-4338-9c07-e2c9e5f57c70" />
+        <classShapeMoniker Id="c92fe9eb-9b16-4160-986b-8a25da5e61e6" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
